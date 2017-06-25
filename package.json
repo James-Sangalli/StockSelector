@@ -1,0 +1,22 @@
+{
+  "name": "stockselector",
+  "version": "1.0.0",
+  "description": "An application that scrapes Morningstar's webpage, picking out stocks that meet a criteria Edit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/James-Sangalli/StockSelector.git"
+  },
+  "author": "James Sangalli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/James-Sangalli/StockSelector/issues"
+  },
+  "homepage": "https://github.com/James-Sangalli/StockSelector#readme",
+  "dependencies": {
+    "superagent": "^3.5.2"
+  }
+}
