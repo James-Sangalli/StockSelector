@@ -6,4 +6,4 @@ _NPM I_
 
 ## Run program
 
-_node index.js_
+open up index.html and follow instructions. 
