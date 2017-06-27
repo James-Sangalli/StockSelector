@@ -1,0 +1,111 @@
+﻿Growth Profitability and Financial Ratios for Varex Imaging Corp
+Financials
+,2007-09,2008-09,2009-09,2010-09,2011-09,2012-09,2013-09,2014-09,2015-09,2016-09,TTM
+Revenue USD Mil,,,,,,,669,685,632,620,636
+Gross Margin %,,,,,,,40.0,40.7,39.6,40.1,39.1
+Operating Income USD Mil,,,,,,,169,176,128,109,103
+Operating Margin %,,,,,,,25.2,25.7,20.2,17.6,16.2
+Net Income USD Mil,,,,,,,109,110,80,69,66
+Earnings Per Share USD,,,,,,,,,,1.60,1.57
+Dividends USD,,,,,,,,,,,
+Payout Ratio % *,,,,,,,,,,,
+Shares Mil,,,,,,,,,,38,38
+Book Value Per Share * USD,,,,,,,,,,,9.15
+Operating Cash Flow USD Mil,,,,,,,91,118,85,74,80
+Cap Spending USD Mil,,,,,,,-8,-23,-34,-28,-17
+Free Cash Flow USD Mil,,,,,,,83,95,50,45,63
+Free Cash Flow Per Share * USD,,,,,,,,,,,
+Working Capital USD Mil,,,,,,,,202,238,282,
+
+Key Ratios -> Profitability
+Margins % of Sales,2007-09,2008-09,2009-09,2010-09,2011-09,2012-09,2013-09,2014-09,2015-09,2016-09,TTM
+Revenue,,,,,,,100.00,100.00,100.00,100.00,100.00
+COGS,,,,,,,59.97,59.34,60.37,59.94,60.89
+Gross Margin,,,,,,,40.03,40.66,39.63,40.06,39.11
+SG&A,,,,,,,9.47,9.14,11.50,13.84,14.11
+R&D,,,,,,,5.36,5.84,7.97,8.63,8.75
+Other,,,,,,,,,,,
+Operating Margin,,,,,,,25.20,25.69,20.16,17.59,16.25
+Net Int Inc & Other,,,,,,,0.37,-0.26,0.02,-0.66,-0.58
+EBT Margin,,,,,,,25.57,25.42,20.18,16.93,15.67
+
+Profitability,2007-09,2008-09,2009-09,2010-09,2011-09,2012-09,2013-09,2014-09,2015-09,2016-09,TTM
+Tax Rate %,,,,,,,36.02,36.80,36.68,34.29,33.53
+Net Margin %,,,,,,,16.36,16.07,12.65,9.93,9.25
+Asset Turnover (Average),,,,,,,,1.58,1.24,1.03,0.92
+Return on Assets %,,,,,,,,25.42,15.74,10.22,8.49
+Financial Leverage (Average),,,,,,,,1.21,1.20,1.18,2.02
+Return on Equity %,,,,,,,,30.64,18.96,12.19,17.12
+Return on Invested Capital %,,,,,,,,30.75,19.06,12.40,11.09
+Interest Coverage,,,,,,,429.25,194.56,107.33,56.26,37.89
+
+Key Ratios -> Growth
+,2007-09,2008-09,2009-09,2010-09,2011-09,2012-09,2013-09,2014-09,2015-09,2016-09,Latest Qtr
+Revenue %
+Year over Year,,,,,,,,2.30,-7.72,-1.93,3.34
+3-Year Average,,,,,,,,,,-2.54,
+5-Year Average,,,,,,,,,,,
+10-Year Average,,,,,,,,,,,
+Operating Income %
+Year over Year,,,,,,,,4.27,-27.56,-14.43,-6.75
+3-Year Average,,,,,,,,,,-13.54,
+5-Year Average,,,,,,,,,,,
+10-Year Average,,,,,,,,,,,
+Net Income %
+Year over Year,,,,,,,,0.46,-27.34,-14.38,
+3-Year Average,,,,,,,,,,-14.50,
+5-Year Average,,,,,,,,,,,
+10-Year Average,,,,,,,,,,,
+EPS %
+Year over Year,,,,,,,,,,,
+3-Year Average,,,,,,,,,,,
+5-Year Average,,,,,,,,,,,
+10-Year Average,,,,,,,,,,,
+
+Key Ratios -> Cash Flow
+Cash Flow Ratios,2007-09,2008-09,2009-09,2010-09,2011-09,2012-09,2013-09,2014-09,2015-09,2016-09,TTM
+Operating Cash Flow Growth % YOY,,,,,,,,30.04,-28.16,-12.91,
+Free Cash Flow Growth % YOY,,,,,,,,15.08,-46.65,-11.00,
+Cap Ex as a % of Sales,,,,,,,1.24,3.39,5.42,4.66,2.60
+Free Cash Flow/Sales %,,,,,,,12.38,13.92,8.05,7.31,10.04
+Free Cash Flow/Net Income,,,,,,,0.76,0.87,0.64,0.66,0.97
+
+Key Ratios -> Financial Health
+Balance Sheet Items (in %),2007-09,2008-09,2009-09,2010-09,2011-09,2012-09,2013-09,2014-09,2015-09,2016-09,Latest Qtr
+Cash & Short-Term Investments,,,,,,,,0.12,3.53,5.86,11.49
+Accounts Receivable,,,,,,,,29.72,20.19,19.63,17.42
+Inventory,,,,,,,,32.23,29.97,31.72,30.61
+Other Current Assets,,,,,,,,0.42,0.48,0.61,1.75
+Total Current Assets,,,,,,,,62.48,54.16,57.82,61.27
+Net PP&E,,,,,,,,14.55,16.48,17.50,17.19
+Intangibles,,,,,,,,9.40,16.91,15.33,13.38
+Other Long-Term Assets,,,,,,,,13.58,12.44,9.35,8.16
+Total Assets,,,,,,,,100.00,100.00,100.00,100.00
+Accounts Payable,,,,,,,,9.65,8.52,6.73,6.70
+Short-Term Debt,,,,,,,,,,,2.17
+Taxes Payable,,,,,,,,,0.21,0.03,
+Accrued Liabilities,,,,,,,,5.33,3.15,3.81,10.72
+Other Short-Term Liabilities,,,,,,,,0.90,1.59,1.93,1.46
+Total Current Liabilities,,,,,,,,15.89,13.47,12.50,21.05
+Long-Term Debt,,,,,,,,,,,27.04
+Other Long-Term Liabilities,,,,,,,,1.15,3.50,2.99,2.34
+Total Liabilities,,,,,,,,17.04,16.96,15.49,50.42
+Total Stockholders' Equity,,,,,,,,82.96,83.04,84.51,49.58
+Total Liabilities & Equity,100.00,100.00,100.00,100.00,100.00,100.00,100.00,100.00,100.00,100.00,100.00
+
+Liquidity/Financial Health,2007-09,2008-09,2009-09,2010-09,2011-09,2012-09,2013-09,2014-09,2015-09,2016-09,Latest Qtr
+Current Ratio,,,,,,,,3.93,4.02,4.63,2.91
+Quick Ratio,,,,,,,,1.88,1.76,2.04,1.37
+Financial Leverage,,,,,,,,1.21,1.20,1.18,2.02
+Debt/Equity,,,,,,,,,,,0.55
+
+Key Ratios -> Efficiency Ratios
+Efficiency,2007-09,2008-09,2009-09,2010-09,2011-09,2012-09,2013-09,2014-09,2015-09,2016-09,TTM
+Days Sales Outstanding,,,,,,,,68.56,71.15,70.63,69.30
+Days Inventory,,,,,,,,125.32,150.37,182.79,199.99
+Payables Period,,,,,,,,37.52,43.75,44.97,43.75
+Cash Conversion Cycle,,,,,,,,156.35,177.77,208.45,225.54
+Receivables Turnover,,,,,,,,5.32,5.13,5.17,5.27
+Inventory Turnover,,,,,,,,2.91,2.43,2.00,1.83
+Fixed Assets Turnover,,,,,,,,10.88,7.94,6.05,5.34
+Asset Turnover,,,,,,,,1.58,1.24,1.03,0.92
